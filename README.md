@@ -1,6 +1,9 @@
 # cody_assistant
 
 A new Flutter application.
+chatbot with STT,TTS and watson asisstant and animation Talking avatr  
+
+note: there is video demo
 
 ## Getting Started
 
